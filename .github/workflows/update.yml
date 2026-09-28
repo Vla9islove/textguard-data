@@ -1,0 +1,31 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run parser
+        env:
+          NODE_TLS_REJECT_UNAUTHORIZED: "0"
+        run: node parser.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add foreign_agents.json
+          git diff --cached --quiet || git commit -m "chore: update foreign agents data"
+          git push
