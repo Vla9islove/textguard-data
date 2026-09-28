@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T13:25:27.839Z",
+  "updatedAt": "2026-09-28T14:40:53.604Z",
   "data": {
     "foreignAgents": [
       {
@@ -21195,7 +21195,7 @@
         "aliases": [
           {
             "text": "Общественный вердикт",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21225,7 +21225,7 @@
         "aliases": [
           {
             "text": "Правозащитная ассоциация",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21305,7 +21305,7 @@
         "aliases": [
           {
             "text": "Ракурс",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21345,7 +21345,7 @@
         "aliases": [
           {
             "text": "Правозащитный центр",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21365,7 +21365,7 @@
         "aliases": [
           {
             "text": "Лига избирательниц",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21385,7 +21385,7 @@
         "aliases": [
           {
             "text": "Гражданский контроль",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21465,7 +21465,7 @@
         "aliases": [
           {
             "text": "Муниципальная Академия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21545,7 +21545,7 @@
         "aliases": [
           {
             "text": "За природу",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21555,7 +21555,7 @@
         "aliases": [
           {
             "text": "За природу",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21645,7 +21645,7 @@
         "aliases": [
           {
             "text": "Планета надежд",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21665,7 +21665,7 @@
         "aliases": [
           {
             "text": "Гражданское содействие",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21685,7 +21685,7 @@
         "aliases": [
           {
             "text": "Женская лига",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21785,7 +21785,7 @@
         "aliases": [
           {
             "text": "ЛИБЕРАЛЬНАЯ МИССИЯ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21825,7 +21825,7 @@
         "aliases": [
           {
             "text": "НУОРИ КАРЬЯЛА",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21945,7 +21945,7 @@
         "aliases": [
           {
             "text": "Зеленый мир",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -21955,7 +21955,7 @@
         "aliases": [
           {
             "text": "ГРАЖДАНСКОЕ ДЕЙСТВИЕ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22095,7 +22095,7 @@
         "aliases": [
           {
             "text": "Женщины Дона",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22195,7 +22195,7 @@
         "aliases": [
           {
             "text": "Мир женщины",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22285,7 +22285,7 @@
         "aliases": [
           {
             "text": "Женщины Евразии",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22325,7 +22325,7 @@
         "aliases": [
           {
             "text": "Сфера",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22365,7 +22365,7 @@
         "aliases": [
           {
             "text": "Архар",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22415,7 +22415,7 @@
         "aliases": [
           {
             "text": "Социум",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22475,7 +22475,7 @@
         "aliases": [
           {
             "text": "Свободное слово",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22545,7 +22545,7 @@
         "aliases": [
           {
             "text": "Школа призывника",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22555,7 +22555,7 @@
         "aliases": [
           {
             "text": "Правовая миссия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22575,7 +22575,7 @@
         "aliases": [
           {
             "text": "Эра здоровья",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22595,7 +22595,7 @@
         "aliases": [
           {
             "text": "Самарская губерния",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22605,7 +22605,7 @@
         "aliases": [
           {
             "text": "Интернет Сообщество",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22615,7 +22615,7 @@
         "aliases": [
           {
             "text": "Проект Апрель",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22725,7 +22725,7 @@
         "aliases": [
           {
             "text": "Серебряная тайга",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22735,7 +22735,7 @@
         "aliases": [
           {
             "text": "Новое время",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22755,7 +22755,7 @@
         "aliases": [
           {
             "text": "Этас",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22785,7 +22785,7 @@
         "aliases": [
           {
             "text": "Голос Америки",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22875,7 +22875,7 @@
         "aliases": [
           {
             "text": "Выбор",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22895,7 +22895,7 @@
         "aliases": [
           {
             "text": "Фонд Тольятти",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -22995,7 +22995,7 @@
         "aliases": [
           {
             "text": "Горячая линия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23045,7 +23045,7 @@
         "aliases": [
           {
             "text": "Гражданский союз",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23105,7 +23105,7 @@
         "aliases": [
           {
             "text": "Правовая инициатива",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23135,7 +23135,7 @@
         "aliases": [
           {
             "text": "Лига Избирателей",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23145,7 +23145,7 @@
         "aliases": [
           {
             "text": "Гуманитарное действие",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23155,7 +23155,7 @@
         "aliases": [
           {
             "text": "Феникс плюс",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23165,7 +23165,7 @@
         "aliases": [
           {
             "text": "Открытый Петербург",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23175,7 +23175,7 @@
         "aliases": [
           {
             "text": "Акцент",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23235,7 +23235,7 @@
         "aliases": [
           {
             "text": "Альянс врачей",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23325,7 +23325,7 @@
         "aliases": [
           {
             "text": "Голос",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23335,7 +23335,7 @@
         "aliases": [
           {
             "text": "Четвертый сектор",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23355,7 +23355,7 @@
         "aliases": [
           {
             "text": "Телеканал Дождь",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23395,7 +23395,7 @@
         "aliases": [
           {
             "text": "Ромашки монолит",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23405,7 +23405,7 @@
         "aliases": [
           {
             "text": "Важные иноагенты",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23445,7 +23445,7 @@
         "aliases": [
           {
             "text": "Зона права",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23555,7 +23555,7 @@
         "aliases": [
           {
             "text": "Честные выборы",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23575,7 +23575,7 @@
         "aliases": [
           {
             "text": "Нобелевский призыв",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23585,7 +23585,7 @@
         "aliases": [
           {
             "text": "Правозащитная группа",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23595,7 +23595,7 @@
         "aliases": [
           {
             "text": "Лилит",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23605,7 +23605,7 @@
         "aliases": [
           {
             "text": "Маяк",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23615,7 +23615,7 @@
         "aliases": [
           {
             "text": "Выход",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23625,7 +23625,7 @@
         "aliases": [
           {
             "text": "Реверс",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23635,7 +23635,7 @@
         "aliases": [
           {
             "text": "Данное сообщение",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23655,7 +23655,7 @@
         "aliases": [
           {
             "text": "Новая глава",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23675,7 +23675,7 @@
         "aliases": [
           {
             "text": "Туба калык",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23695,7 +23695,7 @@
         "aliases": [
           {
             "text": "Новогодний выпуск",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23715,7 +23715,7 @@
         "aliases": [
           {
             "text": "Друзья Балтики",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23735,7 +23735,7 @@
         "aliases": [
           {
             "text": "развития филантропии",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23785,7 +23785,7 @@
         "aliases": [
           {
             "text": "ЛИЗА НОРМ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23795,7 +23795,7 @@
         "aliases": [
           {
             "text": "Апрельские тезисы",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23805,7 +23805,7 @@
         "aliases": [
           {
             "text": "Женский голос",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23825,7 +23825,7 @@
         "aliases": [
           {
             "text": "Первый научный",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23845,7 +23845,7 @@
         "aliases": [
           {
             "text": "Иноагент ААВ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23865,7 +23865,7 @@
         "aliases": [
           {
             "text": "Время колокольчиков",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23885,7 +23885,7 @@
         "aliases": [
           {
             "text": "Вольные люди",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23915,7 +23915,7 @@
         "aliases": [
           {
             "text": "Букмейт Лимитед",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23925,7 +23925,7 @@
         "aliases": [
           {
             "text": "Социальное партнерство",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -23985,7 +23985,7 @@
         "aliases": [
           {
             "text": "Ирида",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24055,7 +24055,7 @@
         "aliases": [
           {
             "text": "Философия ненасилия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24095,7 +24095,7 @@
         "aliases": [
           {
             "text": "Свободная Бурятия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24105,7 +24105,7 @@
         "aliases": [
           {
             "text": "Парни Плюс/Парни+",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24135,7 +24135,7 @@
         "aliases": [
           {
             "text": "Настоящая Россия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24185,7 +24185,7 @@
         "aliases": [
           {
             "text": "Радужная ассоциация",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24195,7 +24195,7 @@
         "aliases": [
           {
             "text": "Школа призывника",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24205,7 +24205,7 @@
         "aliases": [
           {
             "text": "Адвокатская улица",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24225,7 +24225,7 @@
         "aliases": [
           {
             "text": "ТАЙГА ИНФО",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24235,7 +24235,7 @@
         "aliases": [
           {
             "text": "Мягкая сила",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24275,7 +24275,7 @@
         "aliases": [
           {
             "text": "Проект",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24305,7 +24305,7 @@
         "aliases": [
           {
             "text": "Свободная Якутия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24355,7 +24355,7 @@
         "aliases": [
           {
             "text": "Бумага",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24365,7 +24365,7 @@
         "aliases": [
           {
             "text": "Т",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24385,7 +24385,7 @@
         "aliases": [
           {
             "text": "Право каждого",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24405,7 +24405,7 @@
         "aliases": [
           {
             "text": "Три «Ч",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24435,7 +24435,7 @@
         "aliases": [
           {
             "text": "Довод",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24445,7 +24445,7 @@
         "aliases": [
           {
             "text": "Новая Тыва",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24475,7 +24475,7 @@
         "aliases": [
           {
             "text": "Гроза",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24535,7 +24535,7 @@
         "aliases": [
           {
             "text": "Ковчег",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24545,7 +24545,7 @@
         "aliases": [
           {
             "text": "Телеканал Дождь",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24555,7 +24555,7 @@
         "aliases": [
           {
             "text": "Можем объяснить",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24565,7 +24565,7 @@
         "aliases": [
           {
             "text": "Вёрстка Медиа",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24585,7 +24585,7 @@
         "aliases": [
           {
             "text": "Холод",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24595,7 +24595,7 @@
         "aliases": [
           {
             "text": "Живое слово",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24615,7 +24615,7 @@
         "aliases": [
           {
             "text": "ВОТ ТАК",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24645,7 +24645,7 @@
         "aliases": [
           {
             "text": "Нужна помощь",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24655,7 +24655,7 @@
         "aliases": [
           {
             "text": "Викимедиа РУ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24675,7 +24675,7 @@
         "aliases": [
           {
             "text": "Смола",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24695,7 +24695,7 @@
         "aliases": [
           {
             "text": "Первый отдел",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24705,7 +24705,7 @@
         "aliases": [
           {
             "text": "БОЛЬШАЯ СЕМЕРКА",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24735,7 +24735,7 @@
         "aliases": [
           {
             "text": "ИНОАГЕНТ АВК",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24745,7 +24745,7 @@
         "aliases": [
           {
             "text": "СЧАСТЛИВЫЙ БИЛЕТ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24755,7 +24755,7 @@
         "aliases": [
           {
             "text": "Путь домой",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24785,7 +24785,7 @@
         "aliases": [
           {
             "text": "Русский криминал",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24835,7 +24835,7 @@
         "aliases": [
           {
             "text": "Сирена",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24865,7 +24865,7 @@
         "aliases": [
           {
             "text": "Центр «Досье",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24895,7 +24895,7 @@
         "aliases": [
           {
             "text": "Говорит НеМосква",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24905,7 +24905,7 @@
         "aliases": [
           {
             "text": "Сова",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24915,7 +24915,7 @@
         "aliases": [
           {
             "text": "Радио Сахаров",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24955,7 +24955,7 @@
         "aliases": [
           {
             "text": "Идите лесом",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24965,7 +24965,7 @@
         "aliases": [
           {
             "text": "АЛАЯ БУКВА",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -24985,7 +24985,7 @@
         "aliases": [
           {
             "text": "Зона солидарности",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25035,7 +25035,7 @@
         "aliases": [
           {
             "text": "Европейский Петербург",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25045,7 +25045,7 @@
         "aliases": [
           {
             "text": "Земский съезд",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25065,7 +25065,7 @@
         "aliases": [
           {
             "text": "Горби медиа",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25075,7 +25075,7 @@
         "aliases": [
           {
             "text": "Наш выход",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25095,7 +25095,7 @@
         "aliases": [
           {
             "text": "Продолжение следует",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25115,7 +25115,7 @@
         "aliases": [
           {
             "text": "Алиф ТВ",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25155,7 +25155,7 @@
         "aliases": [
           {
             "text": "Обманутый Россиянин",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25195,7 +25195,7 @@
         "aliases": [
           {
             "text": "Острый угол",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25205,7 +25205,7 @@
         "aliases": [
           {
             "text": "Сердитая Чувашия",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25225,7 +25225,7 @@
         "aliases": [
           {
             "text": "Черта",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25265,7 +25265,7 @@
         "aliases": [
           {
             "text": "Аспекты Башкортостана",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25295,7 +25295,7 @@
         "aliases": [
           {
             "text": "Люди Байкала",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25315,7 +25315,7 @@
         "aliases": [
           {
             "text": "Новая вкладка",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25365,7 +25365,7 @@
         "aliases": [
           {
             "text": "Открытое пространство",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25405,7 +25405,7 @@
         "aliases": [
           {
             "text": "Медиа Партизаны",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25425,7 +25425,7 @@
         "aliases": [
           {
             "text": "Татар Шурасы",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25455,7 +25455,7 @@
         "aliases": [
           {
             "text": "Яшма",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25465,7 +25465,7 @@
         "aliases": [
           {
             "text": "Торговые инвестиции",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25485,7 +25485,7 @@
         "aliases": [
           {
             "text": "Охрана природы",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25515,7 +25515,7 @@
         "aliases": [
           {
             "text": "После",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25525,7 +25525,7 @@
         "aliases": [
           {
             "text": "Сфера",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25535,7 +25535,7 @@
         "aliases": [
           {
             "text": "Эхо",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25545,7 +25545,7 @@
         "aliases": [
           {
             "text": "Автономное Действие",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25555,7 +25555,7 @@
         "aliases": [
           {
             "text": "Крымская солидарность",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25575,7 +25575,7 @@
         "aliases": [
           {
             "text": "Штаб кандидатов",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25595,7 +25595,7 @@
         "aliases": [
           {
             "text": "Четвертый сектор",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25625,7 +25625,7 @@
         "aliases": [
           {
             "text": "Первым рейсом",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25635,7 +25635,7 @@
         "aliases": [
           {
             "text": "Быть Или",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25655,7 +25655,7 @@
         "aliases": [
           {
             "text": "Историческая экспертиза",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25665,7 +25665,7 @@
         "aliases": [
           {
             "text": "Новая газета",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
@@ -25675,7 +25675,7 @@
         "aliases": [
           {
             "text": "Канал визионера",
-            "level": "possible"
+            "level": "confident"
           }
         ]
       },
