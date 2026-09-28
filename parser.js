@@ -127,9 +127,9 @@ function buildPersonAliases(fullName, pseudonym) {
     aliases.push({ text: parts.join(" "), level: "confident" });
   }
 
-  // "Фамилия Имя" — точное совпадение.
+  // "Фамилия Имя" — возможное совпадение (без отчества нельзя быть уверенным).
   if (parts.length >= 2) {
-    aliases.push({ text: parts[0] + " " + parts[1], level: "confident" });
+    aliases.push({ text: parts[0] + " " + parts[1], level: "possible" });
   }
 
   // Склонённые формы "Фамилия Имя" — possible.
@@ -140,9 +140,16 @@ function buildPersonAliases(fullName, pseudonym) {
     }
   }
 
-  // Одиночная фамилия — возможное совпадение.
+  // Одиночная фамилия — возможное совпадение + склонённые формы.
   if (parts.length >= 1) {
     aliases.push({ text: parts[0], level: "possible" });
+    const surnameForms = declineSurname(parts[0]);
+    if (surnameForms) {
+      aliases.push({ text: surnameForms.r, level: "possible" });
+      aliases.push({ text: surnameForms.d, level: "possible" });
+      aliases.push({ text: surnameForms.t, level: "possible" });
+      aliases.push({ text: surnameForms.p, level: "possible" });
+    }
   }
 
   // Псевдоним.
